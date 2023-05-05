@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ThineLord
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on nowhere 
+- 👋 Hi, I’m hz.
+- 👀 I’m interested in tennis 
+- 🌱 I’m currently learning to cook 
 - 📫 How to reach me 2243920916@qq.com 
 
 <!---
