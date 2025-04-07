@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hanzhi You.
 - 👀 I’m interested in tennis & piano
 - 🎓 Currently learning LLMs & embodied ai & recommendation algorithm
-- 📫 How to reach me yhz2243920916@gmail.com
+- 📫 Feel free to contact me: yhz2243920916@gmail.com
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
