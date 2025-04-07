@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Hanzhi You.
 - 👀 I’m interested in tennis & piano
+- 🎓 Currently learning LLMs & embodied ai & recommendation algorithm
 - 📫 How to reach me yhz2243920916@gmail.com
 
 
@@ -8,6 +9,18 @@
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThineLord&theme=prussian" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThineLord&repo=ThineLord&theme=prussian" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThineLord&repo=ThineLord.github.io&theme=prussian" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThineLord&repo=ThineLord&theme=prussian" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThineLord&repo=ThineLord.github.io&theme=prussian" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThineLord&repo=ThineLord&theme=prussian" />
