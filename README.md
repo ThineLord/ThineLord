@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hanzhi You.
 - 👀 I’m interested in tennis & piano
-- 🎓 Currently learning LLMs & embodied ai & recommendation algorithm
+- 🎓 Currently learning LLM reasoning & embodied ai & recommendation algorithm
 - 📫 Feel free to reach me: yhz2243920916@gmail.com
 
 
