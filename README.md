@@ -31,15 +31,6 @@ My current research interests include:
 * **Hanz-GPT**
   → Lightweight GPT training playground (nanoGPT-based, MPS optimized)
 
-* **Gomoku-AI**
-  → AI decision-making system (search / strategy)
-
-* **IR-Benchmark**
-  → Evaluation and benchmarking for retrieval systems
-
-* **slatk-ranking-loss**
-  → Experimental ranking loss implementation
-
 ---
 
 ## 📌 Philosophy
