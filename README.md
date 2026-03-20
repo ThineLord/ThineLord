@@ -1,48 +1,58 @@
-- 👋 Hi, I’m Hanzhi You.
-- 👀 I’m interested in tennis & piano & swim
-- 🎓 Currently learning LLM memory
-- 📫 Feel free to reach me: yhz2243920916@gmail.com
+# Hi, I'm Hanzhi You 👋
 
-<!---
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThineLord&count_private=true&show_icons=true&hide=contribs,issues&theme=prussian" />
-</a>
---->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThineLord&langs_count=8&theme=prussian" />
-</a>
+🎓 MPhil in Computer Science @ HKUST
+🧠 Focus: LLM Systems · Memory · Agent Architectures
 
-<!---
-ThineLord/ThineLord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThineLord&repo=ThineLord&theme=prussian" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThineLord&repo=ThineLord.github.io&theme=prussian" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThineLord&repo=ThineLord&theme=prussian" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThineLord&repo=ThineLord.github.io&theme=prussian" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThineLord&repo=ThineLord&theme=prussian" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThineLord&repo=ThineLord.github.io&theme=prussian" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThineLord&repo=ThineLord&theme=prussian" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThineLord&repo=ThineLord.github.io&theme=prussian" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThineLord&repo=ThineLord&theme=prussian" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThineLord&repo=ThineLord.github.io&theme=prussian" />
-</a>
---->
+---
+
+## 🚀 About Me
+
+I build and explore **lightweight, hackable LLM systems**, with a focus on:
+
+* Training small-scale GPT models (MPS / local-first)
+* Memory-augmented architectures
+* Agent-style interaction loops
+* Practical experimentation over theoretical abstraction
+
+---
+
+## 🔬 Research Direction
+
+My current research interests include:
+
+* 🧠 Long-term memory for LLMs
+* 🤖 Agent systems and tool usage
+* 🔍 Interpretability & human-AI interaction
+
+---
+
+## 🧩 Selected Projects
+
+* **Hanz-GPT**
+  → Lightweight GPT training playground (nanoGPT-based, MPS optimized)
+
+* **Gomoku-AI**
+  → AI decision-making system (search / strategy)
+
+* **IR-Benchmark**
+  → Evaluation and benchmarking for retrieval systems
+
+* **slatk-ranking-loss**
+  → Experimental ranking loss implementation
+
+---
+
+## 📌 Philosophy
+
+> Build simple systems → understand deeply → extend toward research.
+
+---
+
+## 📫 Contact
+
+* Email: [yhz2243920916@gmail.com](mailto:yhz2243920916@gmail.com)
+
+---
+
+
+
